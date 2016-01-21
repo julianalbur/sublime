@@ -26,6 +26,7 @@ $(document).ready(function(){
     $("#sign-in").click(function(){
         console.log("this is firing");
         $("#form").toggle();
+      
     });
 });
 
